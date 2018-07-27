@@ -1,3 +1,9 @@
+# XenaR
+
+This is a fork of https://github.com/mtmorgan/XenaR, please note that the orignal repository has not updated for several years and the UCSC Xena also has changed its API. I modify the hub link and it works now.
+
+***********************
+
 ---
 title: "Simple Client for UCSC Xena Genome Data and Analysis Hub"
 output: html_document
