@@ -4,14 +4,6 @@ This is a fork of https://github.com/mtmorgan/XenaR, please note that the origna
 
 ***********************
 
----
-title: "Simple Client for UCSC Xena Genome Data and Analysis Hub"
-output: html_document
-vignette: >
-  % \VignetteIndexEntry{Monday Lab, part B.1: Introduction to Bioconductor}
-  % \VignetteEngine{knitr::rmarkdown}
----
-
 NOTE: generated from inst/README.Rmd
 
 
