@@ -2,6 +2,8 @@
 
 This is a fork of https://github.com/mtmorgan/XenaR, please note that the orignal repository has not updated for several years and the UCSC Xena also has changed its API. I modify the hub link and it works now.
 
+**A package called [UCSCXenaTools](https://github.com/ShixiangWang/UCSCXenaTools) has been released and can work better than XenaR.** UCSCXenaTools is based on source code of XenaR in DataGeeker.
+
 ***********************
 
 NOTE: generated from inst/README.Rmd
