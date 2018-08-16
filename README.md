@@ -23,9 +23,11 @@ Install (one-time; using `biocLite()` or `devtools::install_github()`)
 and then load the library.
 
 
-```r
-source("http://bioconductor.org/biocLite.R")
-biocLite("mtmorgan/xenar") 
+You can install XenaR from github with:
+
+``` r
+# install.packages("devtools")
+devtools::install_github("DataGeeker/XenaR")
 ```
 
 ```r
